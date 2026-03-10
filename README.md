@@ -22,7 +22,7 @@ I specialize in building B2B/A2A integration solutions that process **1,20,000+ 
 
 ```
 🔹 Currently    → Technical Architect at TCS (Client: Apple Inc.)
-🔹 Focus        → Enterprise Integration Architecture | API Strategy |webMethods|Dell Boomi| MuleSoft | EDI Modernization
+🔹 Focus        → Enterprise Integration Architecture | API Strategy | webMethods | Dell Boomi | MuleSoft | EDI Modernization
 🔹 Scale        → 50+ Global Trading Partners | 40+ Production Interfaces | 25+ Countries
 🔹 Impact       → 99.5% SLA Compliance | 99.9% Message Reliability | 58% Faster Onboarding
 🔹 Location     → Austin, TX, USA
