@@ -18,7 +18,7 @@
 
 I'm a **Senior Integration Architect** with **13+ years** of experience designing and delivering **large-scale enterprise integration platforms** across global supply chains and Fortune 500 ecosystems.
 
-I specialize in building B2B/A2A integration solutions that process **1,20,000+ API/EDI/XML transactions daily** for companies like **Apple, Colgate-Palmolive, and Flextronics (Cisco, HP)**.
+I specialize in building B2B/A2A integration solutions that process **120,000+ API/EDI/XML transactions daily** for companies like **Apple, Colgate-Palmolive, and Flextronics (Cisco, HP)**.
 
 ```
 🔹 Currently    → Technical Architect at TCS (Client: Apple Inc.)
@@ -87,7 +87,7 @@ I specialize in building B2B/A2A integration solutions that process **1,20,000+ 
   <tr>
     <td>🌐</td>
     <td><strong>Enterprise-Scale B2B Platform</strong></td>
-    <td>Architected Apple Inc.'s B2B integration platform enabling 50+ global trading partners to exchange 12,000+ daily transactions across 25+ countries with 99.9% reliability</td>
+    <td>Architected Apple Inc.'s B2B integration platform enabling 50+ global trading partners to exchange 120,000+ daily transactions across 25+ countries with 99.9% reliability</td>
   </tr>
   <tr>
     <td>⚡</td>
@@ -119,10 +119,10 @@ I specialize in building B2B/A2A integration solutions that process **1,20,000+ 
 
 | Metric | Impact |
 |:---|:---|
-| 🔄 **Daily Transactions** | 12,000+ EDI transactions processed daily |
+| 🔄 **Daily Transactions** | 120,000+ API / EDI transactions processed daily |
 | 🌍 **Global Partners** | 50+ trading partners across 25+ countries |
 | ⚙️ **Production Interfaces** | 40+ built and maintained |
-| 📋 **EDI Specifications** | 60+ mapping specs standardized |
+| 📋 **EDI and API Specifications** | 60+ mapping specs standardized |
 | ✅ **SLA Compliance** | 99.5% across P1/P2 incidents |
 | 📡 **Platform Reliability** | 99.9% message processing uptime |
 | 🚀 **Onboarding Speed** | 58% faster partner integration (6 wks → 2.5 wks) |
@@ -139,21 +139,21 @@ I specialize in building B2B/A2A integration solutions that process **1,20,000+ 
 ### 🍎 Tata Consultancy Services — Technical Architect (Client: Apple Inc.)
 **Aug 2017 – Present | Austin, TX**
 
-> Architecting enterprise B2B integration solutions for Apple's global supply chain — 40+ interfaces, 50+ partners, 12,000+ daily transactions.
+> Architecting enterprise B2B integration solutions for Apple's global supply chain — 40+ interfaces, 50+ partners, 120,000+ daily transactions.
 
 **Key Achievements:**
-- 🔹 Designed 40+ production B2B interfaces (X12, EDIFACT, JSON) via webMethods ESB
+- 🔹 Designed 40+ production B2B interfaces (X12, EDIFACT, JSON) via webMethods ESB, Dell Boomi
 - 🔹 Reduced partner onboarding from 6 weeks to 2.5 weeks (58% improvement)
 - 🔹 Led 15+ enterprise projects with 95% on-time delivery, zero critical defects
 - 🔹 Built Splunk monitoring reducing anomaly detection time by 60%
-- 🔹 Standardized 60+ EDI schemas cutting development time by 25%
+- 🔹 Standardized 60+ API / EDI schemas cutting development time by 25%
 
 ---
 
 ### 🧴 Colgate-Palmolive — Integration Engineer
 **Feb 2015 – Jul 2017 | Mumbai, India**
 
-> Built and optimized 25+ EDI interfaces processing 8,000+ daily transactions across 15+ countries.
+> Built and optimized 25+ EDI interfaces processing 80,000+ daily transactions across 15+ countries.
 
 **Key Achievements:**
 - 🔹 Automated order-to-cash & procure-to-pay workflows reducing manual work by 50%
