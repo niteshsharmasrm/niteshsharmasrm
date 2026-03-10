@@ -205,9 +205,9 @@ I specialize in building B2B/A2A integration solutions that process **120,000+ A
 
 > 🚧 *Coming Soon — Building portfolio projects to showcase integration architecture skills*
 
-| Project | Description | Tech Stack |
+| Project | Description | Tech Stack | Project Link
 |:---|:---|:---|
-| 🔄 **EDI Transaction Simulator** | Simulates X12/EDIFACT document exchange | Python, XML, JSON |
+| 🔄 **EDI Transaction Simulator** | Simulates X12/EDIFACT document exchange | Python, XML, JSON |   https://github.com/niteshsharmasrm/edi-transaction-simulator |
 | 🌐 **REST API Integration Hub** | Multi-service API gateway with routing | Spring Boot, REST, Docker |
 | 📊 **Integration Monitoring Dashboard** | Real-time transaction monitoring | Python, Splunk, Grafana |
 | 📦 **Partner Onboarding Automation** | Automated B2B partner setup workflow | Python, AWS, APIs |
