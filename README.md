@@ -18,7 +18,7 @@
 
 I'm a **Senior Integration Architect** with **13+ years** of experience designing and delivering **large-scale enterprise integration platforms** across global supply chains and Fortune 500 ecosystems.
 
-I specialize in building B2B/A2A integration solutions that process **1,20,000+ EDI transactions daily** for companies like **Apple, Colgate-Palmolive, and Flextronics (Cisco, HP)**.
+I specialize in building B2B/A2A integration solutions that process **1,20,000+ API/EDI/XML transactions daily** for companies like **Apple, Colgate-Palmolive, and Flextronics (Cisco, HP)**.
 
 ```
 🔹 Currently    → Technical Architect at TCS (Client: Apple Inc.)
